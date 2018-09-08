@@ -7,7 +7,7 @@ This is my implementation of [Kruskals Minimum Spanning Tree](https://en.wikiped
 ```
     make
     make test
-    make random\_test TESTS=[number of tests to run]
+    make random_test TESTS=[number of tests to run]
 ```
 There is an IPython notebook with graphs showing my results from running
 100 randomly generated test cases. The script that generates test cases
